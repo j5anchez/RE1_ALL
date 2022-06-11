@@ -1,0 +1,5 @@
+C:\Users\admin\Desktop\PSP_Final_Ejercicio2\PSP_Final_Azterketa2_Srv\obj\Debug\net6.0\PSP_Final_Azterketa2_Cli.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\PSP_Final_Ejercicio2\PSP_Final_Azterketa2_Srv\obj\Debug\net6.0\PSP_Final_Azterketa2_Cli.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\PSP_Final_Ejercicio2\PSP_Final_Azterketa2_Srv\obj\Debug\net6.0\PSP_Final_Azterketa2_Cli.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\PSP_Final_Ejercicio2\PSP_Final_Azterketa2_Srv\obj\Debug\net6.0\PSP_Final_Azterketa2_Cli.AssemblyInfo.cs
+C:\Users\admin\Desktop\PSP_Final_Ejercicio2\PSP_Final_Azterketa2_Srv\obj\Debug\net6.0\PSP_Final_Azterketa2_Cli.csproj.CoreCompileInputs.cache
