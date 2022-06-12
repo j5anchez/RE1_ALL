@@ -6,7 +6,7 @@ git clone https://github.com/j5anchez/PSP05
 git init
 git add . 
 git commit -m "initial commit"
-git remote add origin https://github.com/j5anchez/PSPsolRemix.git
+git remote add origin https://github.com/j5anchez/RE1_ALL.git
 git push -u origin master
 git push origin master  
  
