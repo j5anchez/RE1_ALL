@@ -13,7 +13,16 @@ git push origin master
 git config --global user.email "josebsanchez@birt.eus"
 git config --global user.name "j5anchez"
 
-
-
-
 borrar variables de entorno o credenciales desde windows si no logea github
+
+
+
+
+
+For example, if the byte array was created like this:
+
+byte[] bytes = Encoding.ASCII.GetBytes(someString);
+You will need to turn it back into a string like this:
+
+string someString = Encoding.ASCII.GetString(bytes);
+
